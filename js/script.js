@@ -1,5 +1,5 @@
 const horas = document.getElementById('horas');
-const minuntos = document.getElementById('minuntos');
+const minuntos = document.getElementById('minutos');
 const segundos = document.getElementById('segundos');
 
 const clock = setInterval(function time() {
