@@ -1,5 +1,5 @@
 Sobre:
-<p>Este reslógio foi desenvolvido para aprimorar meus estudos em HTML, CSS e JavaScript, vi em um canal do Youtube achei interessante e decidi acomaphar a explicação e desenvolver/recriar ele também, gostei bastante do resultado final e pude está aprimorando ainda mais o que venho estudado. Deixarei as referências do canal do Youtube.</p>
+<p>Este reslógio foi desenvolvido para aprimorar meus estudos em HTML, CSS e JavaScript, vi em um canal do Youtube achei interessante e decidi acompanhar a explicação e desenvolver/recriar ele também, gostei bastante do resultado final e pude está aprimorando ainda mais o que venho estudado. Deixarei as referências do canal do Youtube.</p>
 
 ##
 
